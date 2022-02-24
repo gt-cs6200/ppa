@@ -1,0 +1,30 @@
+Package: grpc-cs6200
+Version: 1.0.1-1
+Architecture: amd64
+Maintainer: Patrick Ward <pward8@gatech.edu>
+Installed-Size: 47532
+Provides: grpc
+Filename: ./grpc-cs6200_1.0.1-1_amd64.deb
+Size: 5852232
+MD5sum: 23a76c709cdb2c4dcf7fb093a623e044
+SHA1: ac96c849b1850f77b4d4b3ab53f3533a7cb4df96
+SHA256: ceab0c1723fe2b3ddce970055a2bb4752031ef536f1b25a197a7e88623a2baa7
+Section: libs
+Priority: extra
+Description: GRPC for CS6200
+
+Package: protobuf-cs6200
+Version: 1.0.1-1
+Architecture: amd64
+Maintainer: Patrick Ward <pward8@gatech.edu>
+Installed-Size: 214408
+Provides: protobuf-cs6200
+Filename: ./protobuf-cs6200_1.0.1-1_amd64.deb
+Size: 25477616
+MD5sum: 40d2defebf26ed2350a2fb72c0848992
+SHA1: 6ca0be607ff4fbe0a80fbdf9091fd50d2941ce75
+SHA256: fcda6b7d6deb1a026be0806965b578d9e1cd1c6dfea48d24c9dc7f5020174fdf
+Section: libs
+Priority: extra
+Description: Protobuf for CS6200
+

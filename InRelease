@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Thu, 24 Feb 2022 03:37:46 +0000
+MD5Sum:
+ 0bd8b287c789c2ae14dd9372efed7db6              859 Packages
+ a7bf93475ce122c94662aed1631399bb              470 Packages.gz
+ 2f386330943aa48cba3a4a0cc38d75df               38 Release
+SHA1:
+ 05e1380e1591fcb97c37339ea841d401e68fb2c0              859 Packages
+ 211c045d0baf663505b1c6713e73950ad4fcb69d              470 Packages.gz
+ f0e3b5ef3cef79b5cb98af721902206008ff333f               38 Release
+SHA256:
+ 8365da6ff2fe3deb867f88d64d73e96c454fd3dc8d0f5b8b6284a1a718ccc6a8              859 Packages
+ dfc09927f16ab291a9c641ef28c556dd50de0bbb4367a2fe5149b16cb56aaad1              470 Packages.gz
+ 9e34b098e52458126c97474410e930af735e036b4a421ddd1db45900406e69d2               38 Release
+SHA512:
+ 247df63009a9982b24cc06ed8b68283df25834f33872fb0e11849ab6ce66ccdfb51a1d7fbca05477740064483f2b438e8eb1e5be441fbd149838d61e6dc28b5a              859 Packages
+ 9680dc7d311844b80b44a24913d69acd3c4da04929a9559dc8b560ace6e186dd60da444a8a9c53e25021027e61424041a325c143ab7ebbd1beea8411567de67d              470 Packages.gz
+ 2fc44609019101f7a53c09117b9beb3e3c00c121a78679142ad1b6e4d6ebb8563b5322a6cb5b43d7ff5b00622814c39cc95f1a32e5230b619af806772e6f4e23               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQJGBAEBCgAwFiEEeT0BPdK+3T46hwQe8hvgKT+m3dwFAmIW/aUSHHRoby5oYUBn
+YXRlY2guZWR1AAoJEPIb4Ck/pt3cejcP/RlpN3geKHPwXPxoLb+C+cGLPwdxlXrQ
+HayEi3afog0ovEHcu91VTWQth4HonVNtIuZYiEeyGyj6xusgGcRcGmYiA/tn+2dr
+59XkR1A0IPKhjGIpE0MR3bm1qlEWKFQET65LvWtEgcTz7WSUxyACrvbyMrW7IRHB
+pt9krsQpYlMq1QsnPmxxkBaMmrAXBlEn6okp/LBPWG/kbaKHksO5Py53qDcTbbn2
+aGbaK26uWIlblTadj8Knnzc/eQpNYZRLZSkM4Oj1sKLhcQlgKmVTtCXWNU/hAgLn
+tMbMgPzQO5ysFZlrMwiJ8+cry06PuLkTjlV0tMxnAbproG6EFvmpa+6wO267hoEs
+xQkFCY9xrUNc/LWo412+H9F47djqGyo1kgKSKN/fzalMK4TIqphrzFkE/vzqTLjZ
+GcCMH7NpCEO9lm1vHptvjbJ3d6Wip5mHhbbWlthjP5Is5DUBE64m9rViErE2dU1l
+wq04P+KbNAR1t0tucT3MtJiDLNUNMpVpKyC+HW4RkMWp1+Dbbf5x7G7L90YsmHbU
+MEF6yGPM4wwNyDvCluIY6d5B2eeZYb2Ny1KsSvKfbsVl0Xivcz+FwLGK1Tpu9qZf
+YbXcVgcxfYmWKgfD7Blsm8a2tLmKjFH5P56KNpL+olvRO+Lv0fUYPc5lInYzv5V7
+A1DFjAVjtUdn
+=vuSJ
+-----END PGP SIGNATURE-----
