@@ -13,6 +13,20 @@ Section: libs
 Priority: extra
 Description: GRPC for CS6200
 
+Package: grpc-cs6200
+Version: 1.34.0
+Architecture: arm64
+Maintainer: Phillip Moore <pwm@gatech.edu>
+Provides: grpc
+Filename: ./grpc-cs6200_1.34.0_arm64.deb
+Size: 13868792
+MD5sum: 5d7a50fb0341af039e39fd5196f26220
+SHA1: 76c5259e0db3e2d216d9b6a49b26905ba4add843
+SHA256: e144668e7c7a6a2a680557d01b355d203b71e3c4e8cc01133ae95260bf1893c4
+Section: libs
+Priority: extra
+Description: GRPC for CS6200
+
 Package: protobuf-cs6200
 Version: 1.0.1-1
 Architecture: amd64
@@ -24,6 +38,20 @@ Size: 25477616
 MD5sum: 40d2defebf26ed2350a2fb72c0848992
 SHA1: 6ca0be607ff4fbe0a80fbdf9091fd50d2941ce75
 SHA256: fcda6b7d6deb1a026be0806965b578d9e1cd1c6dfea48d24c9dc7f5020174fdf
+Section: libs
+Priority: extra
+Description: Protobuf for CS6200
+
+Package: protobuf-cs6200
+Version: 3.7.0
+Architecture: arm64
+Maintainer: Phillip Moore <pwm@gatech.edu>
+Provides: protobuf-cs6200
+Filename: ./protobuf-cs6200_3.7.0_arm64.deb
+Size: 55269160
+MD5sum: 5006be145e7c67f2c0ce0ef96c8692b1
+SHA1: 05fd645de0fa8a06270e99bd94cd624a7c50e750
+SHA256: 45a5582bcd94043963ade0cb4483cbf7a061bc441d17bce4fd4d1e11d5ddff15
 Section: libs
 Priority: extra
 Description: Protobuf for CS6200
