@@ -19,10 +19,10 @@ Architecture: arm64
 Maintainer: Phillip Moore <pwm@gatech.edu>
 Provides: grpc
 Filename: ./grpc-cs6200_1.34.0_arm64.deb
-Size: 13868792
-MD5sum: 5d7a50fb0341af039e39fd5196f26220
-SHA1: 76c5259e0db3e2d216d9b6a49b26905ba4add843
-SHA256: e144668e7c7a6a2a680557d01b355d203b71e3c4e8cc01133ae95260bf1893c4
+Size: 8737952
+MD5sum: cb1f8df52204a8d23d900b2d7fd5482e
+SHA1: 082311ea6effcf84dd1eea01464b9ad47cc6967c
+SHA256: 94d54f40bdddba256f5c9a434f6e4f136d4b9c98997c8bb6a611f82406c4f7d8
 Section: libs
 Priority: extra
 Description: GRPC for CS6200
